@@ -1,0 +1,4 @@
+Argo CD supports:
+- Kubernetes yaml files
+- Helm Charts - template engine
+- kustomize formats - overlay engine
